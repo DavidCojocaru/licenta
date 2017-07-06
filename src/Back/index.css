@@ -1,0 +1,13 @@
+.back {
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+  cursor: "pointer";
+  position: relative;
+  transition: left .2s;
+  left: 0px;
+  cursor: pointer;
+}
+.back:hover {
+  left: -15px;
+}

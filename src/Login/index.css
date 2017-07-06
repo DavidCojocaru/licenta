@@ -1,0 +1,16 @@
+.login-form {
+  display: flex;
+  height: 100%;
+  flex-flow: column;
+  justify-content: center;
+  margin-bottom: 5vh;
+}
+
+.login-form__buttons {
+  display: flex;
+  flex-flow: row;
+}
+
+.login-form__buttons > :first-child {
+  margin-right: 5px;
+}

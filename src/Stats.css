@@ -1,0 +1,7 @@
+.stats-item {
+  border-top: 1px solid #c9c9c9;
+}
+
+.button:hover {
+  background-color: red;
+}

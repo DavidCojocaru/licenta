@@ -1,0 +1,13 @@
+.main-menu {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
+
+.main-menu__wrapper {
+  display: flex;
+  flex-flow: column;
+}
+.main-menu .mui-btn {
+  margin-left: 0px;
+}
